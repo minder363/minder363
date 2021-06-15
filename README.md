@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @minder363
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning database ans SQL
-- 💞️ I’m looking to collaborate on a commercial project
-- 📫 How to reach me mindersingh363@gmail.com
+
